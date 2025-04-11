@@ -182,5 +182,3 @@ Have a fintech idea, partnership, or just want to jam on future finance tools? L
 > _“Fintech is no longer just a product — it's an infrastructure for equity, speed, and economic growth.”_
 
 --- 
-
-Let me know if you want it broken down into separate MD files per research project, or rendered with visuals like Mermaid diagrams and badges on GitHub.
