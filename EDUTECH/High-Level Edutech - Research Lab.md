@@ -1,4 +1,4 @@
-# 🎓 TechOps Apex – Open Source EduTech Projects
+# 🎓Open Source EduTech Projects - Research Lab
 ## 🌍 Open Education Tools for the Next Billion Learners
 
 Welcome to the **TechOps Apex EduTech OSS Portfolio** — a growing collection of open-source, community-powered tools designed to enable **accessible, localized, and impactful tech education** across emerging regions. We build for learners, educators, institutions, and communities driving digital transformation through knowledge.
