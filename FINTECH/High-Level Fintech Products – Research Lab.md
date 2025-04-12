@@ -1,4 +1,4 @@
-# 💸 High-Level Fintech Products – Research Lab
+# 💸 Open Source Fintech Projects – Research Lab
 
 ## 🚀 Exploring the Future of Fintech Infrastructure & Experiences
 
