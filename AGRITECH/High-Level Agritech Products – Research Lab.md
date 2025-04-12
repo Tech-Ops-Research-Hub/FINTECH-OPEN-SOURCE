@@ -1,4 +1,4 @@
-# 🌾 TechOps Apex – Open Source AgriTech Projects
+# 🌾 Open Source AgriTech Projects – Research Lab
 
 ## 🚜 Building Infrastructure for the Future of Agriculture
 

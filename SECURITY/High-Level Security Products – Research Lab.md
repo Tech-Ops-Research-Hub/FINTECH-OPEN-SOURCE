@@ -1,4 +1,4 @@
-# 🔐 TechOps Apex – Open Source Security Projects
+# 🔐 Open Source Cyber_Security Projects - Research Lab
 
 ## 🛡 Building Secure, Trustworthy, and Privacy-First Infrastructure
 

@@ -1,4 +1,4 @@
-# 🏥 TechOps Apex – Open Source HealthTech Projects
+# 🏥 Open Source HealthTech Projects – Research Lab
 
 ## 🌍 Health Systems for the People, Built in the Open
 
