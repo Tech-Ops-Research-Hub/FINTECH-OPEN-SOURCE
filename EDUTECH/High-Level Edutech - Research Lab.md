@@ -98,7 +98,7 @@ flowchart LR
 
 ---
 
-## 💸 Why We Fund EduTech Projects
+## 💸 Why We need Funding for our EduTech Projects
 
 We believe access to quality tech education is a **foundational right**. Funding enables us to:
 
