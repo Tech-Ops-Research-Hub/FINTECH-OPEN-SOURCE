@@ -135,5 +135,3 @@ We’re building the open-source future of education—**for and with the commun
 Made with 💙 by **TechOps Apex – EduTech Division**
 
 ---
-
-Let me know if you want a version tailored for a specific initiative (like a bootcamp series or DevRel curriculum), or one that breaks into subfolders with icons/logos for each project!
